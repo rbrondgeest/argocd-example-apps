@@ -13,4 +13,4 @@ spec:
   source:
     path: helm-guestbook
     repoURL: {{ .Values.spec.source.repoURL }}
-    targetRevision: 9993bb31
+    targetRevision: 5252b1ab
